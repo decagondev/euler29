@@ -1,0 +1,14 @@
+{
+  "name": "euler29",
+  "version": "1.0.0",
+  "description": "my attempt at project euler problem 29",
+  "main": "euler29.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Tarpey",
+  "license": "MIT",
+  "dependencies": {
+    "big.js": "^5.1.2"
+  }
+}
