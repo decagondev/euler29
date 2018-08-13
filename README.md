@@ -15,7 +15,7 @@ I make use of the big.js npm module by @MikeMcl as it saves making a new BigInt 
 // clone the repo
 git clone https://github.com/decagondev/euler29
 // change dir to the repo
-cd euler29-master
+cd euler29
 // install deps
 npm install
 // run the solution
