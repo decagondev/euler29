@@ -5,7 +5,7 @@ This is a simple BigInt implementation of the destinct powers problem set from b
 
 I make use of the big.js npm module by @MikeMcl as it saves making a new BigInt implementation from scratch. you can checkout big.js at [MikeMcl/big.js/](https://github.com/MikeMcl/big.js/)
 
-## Rerequisits
+## Prerequisites
 
 * nodejs
 * npm
